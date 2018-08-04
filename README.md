@@ -2,4 +2,4 @@
 
 This project is built using yarn package manager.
 
-Use command `yarn install` and then run the project
+Use command `yarn install` and then run the project on the emulator of your choice.
